@@ -63,5 +63,3 @@ scapy
 matplotlib
 
 
-Would you like me to also make you a **shorter LinkedIn-style description** (like a post text with repo link + screenshot)?
-```
